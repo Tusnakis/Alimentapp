@@ -1,0 +1,70 @@
+html, body {
+	margin: 0;
+    padding: 0;
+    height: 100%;
+}
+/*th {
+	background-color: #D2D2D6;
+	width: 20%;
+	padding: 10px;
+	text-align: center;
+	border: 1px solid black;
+}*/
+/*td {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid black;
+}*/
+/*#contenedor_tabla {
+	text-align: center;
+	margin: auto;
+	clear: both;
+	font-family: "Tahoma","Palatino",sans-serif;
+}*/
+/*table {
+	text-align: center;
+	margin:auto;
+	border: 1px solid black;
+	clear: both;
+}*/
+#div_vacio {
+	height: 75px;
+}
+#contenedor {
+	text-align: center;
+	padding: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+#titulo {
+	font-family: "Tahoma","Palatino",sans-serif;
+}
+#subtitulo {
+	font-family: "Tahoma","Palatino",sans-serif;
+	font-size: 22px;
+}
+#busqueda {
+	font-size: 20px;
+}
+#botonBuscar {
+	font-size: 14px;
+	background-color: #D5D4D6;
+}
+#input-group {
+	margin: auto;
+	width: 50%;
+}
+.mensaje {
+	font-family: "Tahoma","Palatino",sans-serif;
+}
+#nom_alimento {
+	font-style: oblique;
+	font-size: 18px;
+	text-decoration: underline;
+}
+#search {
+	padding: 3px;
+}
+/*#grafico {
+	margin: auto;
+}*/
